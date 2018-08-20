@@ -40,6 +40,35 @@
 
 - [springcloud-example](https://github.com/springboxcn/springcloud-example)
 
+- [java-design-patterns](https://github.com/my-t/java-design-patterns)
+
+- [Algorithms-And-Data-Structures](https://github.com/my-learn/Algorithms-And-Data-Structures)
+
+- [docker-build-study](https://github.com/my-learn/docker-build-study)
+
+- [golang-study](https://github.com/my-learn/golang-study)
+
+- [leetcode](https://github.com/my-learn/leetcode)
+
+- [nodejsdemo](https://github.com/my-learn/nodejsdemo)
+
+- [graphql-java-learning](https://github.com/my-learn/graphql-java-learning)
+
+- [Introduction_to_Python](https://github.com/my-learn/Introduction_to_Python)
+
+- [data-structure-algorithm](https://github.com/my-learn/data-structure-algorithm)
+
+
+- [translations](https://github.com/m-fork/translations)
+- [transmittable-thread-local](https://github.com/m-fork/transmittable-thread-local)
+- [developer-roadmap-chinese](https://github.com/m-fork/developer-roadmap-chinese)
+- [fucking-java-concurrency](https://github.com/m-fork/fucking-java-concurrency)
+- [Career](https://github.com/lietoumai/Career/issues)
+- [zheng](https://github.com/m-fork/zheng)
+- [Java-concurrency](https://github.com/m-fork/Java-concurrency)
+- [useful-scripts](https://github.com/m-fork/useful-scripts)
+- [renren-security](https://github.com/m-fork/renren-security)
+
 ## LICENSE
 
 ![](LICENSE.png)
